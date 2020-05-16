@@ -1,0 +1,83 @@
+body
+{
+  background-color: silver;  
+}
+
+p, ul{                        
+  font-size: 20px;           
+  font-family: calibri;  
+}
+
+h1
+{
+  color: black;
+  font-size: 5em;
+  text-align: center;
+  
+}
+
+h2
+{
+  color: black;
+  font-size: 3em;
+  text-align: center;
+}
+
+.photo1
+{
+  text-align: center;
+}
+
+.photo2
+{
+  text-align: center;
+}
+
+.para1
+{
+  color: purple;
+  text-align: justify;
+  width: 800px;
+  margin: auto;
+  margin-top: 40px;
+}
+
+.para2
+{
+  color: purple;
+  text-align: justify;
+  width: 800px;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.para3
+{
+  color: orangered;
+  text-align: center;
+  width: 800px;  
+  margin: auto;
+  margin-top: 20px;
+}
+
+.para4, .para5
+{
+  color: orangered;
+  text-align: justify;
+  width: 800px;  
+  margin: auto;
+  margin-top: 20px;
+}
+
+.list_dif
+{
+  color: blueviolet;
+  width: 40%;  
+  margin: auto;
+}
+
+.lien
+{
+  color: green;  
+  margin-top: 20px;
+}
